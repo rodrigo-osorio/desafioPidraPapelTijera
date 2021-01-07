@@ -29,6 +29,7 @@
 # 0 = piedra
 # 1 = papel
 # 2 = tijera
+
 user_game = ARGV[0]
 
 if user_game != "piedra" && user_game!= "papel" && user_game != "tijera"
